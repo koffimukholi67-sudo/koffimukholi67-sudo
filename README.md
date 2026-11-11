@@ -26,8 +26,16 @@ I am passionate about technology, computer systems, database management, cyberse
 - Computer Networking
 - Cybersecurity
 
-### 📂 My Projects
-Projects will be published here as I develop them.
+### 🚀 Featured Projects
+
+| Project | Description | Technology |
+|---|---|---|
+| [Student Grade Management](https://github.com/koffimukholi67-sudo/Student-Grade-Management-System) | Student marks and grades management | Verify actual stack |
+| [Student Task Manager](https://github.com/koffimukholi67-sudo/STUDENT-TASK-MANAGER) | Assignment and deadline tracking | HTML, CSS, JavaScript |
+| [Password Security Checker](https://github.com/koffimukholi67-sudo/PASSWORD-SECURITY-CHEAKER) | Checks password strength | Python |
+| [Tip Calculator](https://github.com/koffimukholi67-sudo/tip-calculator) | Calculates tips and bill totals | Python |
+
+More projects coming soon!
 
 ### 🌍 Languages
 - English
