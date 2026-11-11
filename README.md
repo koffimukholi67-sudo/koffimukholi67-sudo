@@ -1,65 +1,54 @@
+Hi, I'm Koffi Mukholi Nyongesa 👋
 
-# Hi, I'm Koffi Mukholi Nyongesa 👋
+Computer Science Student | Aspiring Software Developer | IT Support
 
-### Computer Science Student | IT Support | Aspiring Software Developer
+I'm a first-year Bachelor of Science in Computer Science student at the University of Kabianga, Kenya. I enjoy learning how technology works, solving practical computer problems, and building useful digital tools.
 
-I am a Computer Science student at the University of Kabianga, Kenya.
+I'm especially interested in software development, web technologies, databases, networking, and cybersecurity.
 
-I am passionate about technology, computer systems, database management, cybersecurity and digital innovation.
+🚀 Featured Project
 
-### 🎓 Education
-- Bachelor of Science in Computer Science
-- University of Kabianga
+"Student Task Manager" (https://github.com/koffimukholi67-sudo/student-task-manager-app)
 
-### 💻 My Technical Skills
-- Microsoft Word, Excel and PowerPoint
-- Microsoft Access and Database Management
-- Windows Installation and Troubleshooting
-- Software Installation
-- Computer Repair and Maintenance
-- Typing and Document Formatting
+A responsive browser-based application that helps students organize assignments, manage deadlines, set priorities, and track their progress.
 
-### 🚀 What I'm Learning
-- Python Programming
-- SQL and Database Development
-- Web Development
-- Computer Networking
-- Cybersecurity
+- Live demo: "Open Student Task Manager" (https://koffimukholi67-sudo.github.io/student-task-manager-app/)
+- Built with: HTML, CSS, and JavaScript
+- Includes task creation and editing, status tracking, search, filters, progress statistics, theme switching, and browser Local Storage.
 
-### 🚀 Featured Projects
+💻 Skills and Experience
 
-| Project | Description | Technology |
-|---|---|---|
-| [Student Grade Management](https://github.com/koffimukholi67-sudo/Student-Grade-Management-System) | Student marks and grades management | Verify actual stack |
-| [Student Task Manager](https://github.com/koffimukholi67-sudo/STUDENT-TASK-MANAGER) | Assignment and deadline tracking | HTML, CSS, JavaScript |
-| [Password Security Checker](https://github.com/koffimukholi67-sudo/PASSWORD-SECURITY-CHEAKER) | Checks password strength | Python |
-| [Tip Calculator](https://github.com/koffimukholi67-sudo/tip-calculator) | Calculates tips and bill totals | Python |
+- Office and productivity: Microsoft Word, Excel, and PowerPoint
+- Databases: Microsoft Access and database management fundamentals
+- IT support: Windows installation and troubleshooting, software installation, computer maintenance, and repair
+- Digital services: Typing, document formatting, printing, scanning, and photocopying
 
-More projects coming soon!
+🌱 Currently Learning
 
-### 🌍 Languages
+- Python programming
+- SQL and relational databases
+- HTML, CSS, and JavaScript
+- Computer networking
+- Cybersecurity fundamentals
+
+🎯 What I'm Working Towards
+
+- Building practical software projects and documenting what I learn.
+- Strengthening my programming and problem-solving skills.
+- Growing my knowledge of databases, networking, and cybersecurity.
+- Finding opportunities to collaborate, learn, and contribute to technology projects.
+
+🌍 Languages
+
 - English
 - Kiswahili
 - Luhya
 
-### 🤝 Connect With Me
-- Email: koffimukholi67@gmail.com
-- LinkedIn: https://www.linkedin.com/in/koffi-mukholi-09a7003b3
+🤝 Connect With Me
 
-**Learning, building and creating technology solutions.**
+- GitHub: "@koffimukholi67-sudo" (https://github.com/koffimukholi67-sudo)
+- LinkedIn: "Koffi Mukholi Nyongesa" (https://www.linkedin.com/in/koffi-mukholi-09a7003b3/)
 
+---
 
-<!--
-**koffimukholi67-sudo/koffimukholi67-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Learning continuously, building practical solutions, and growing one project at a time.
